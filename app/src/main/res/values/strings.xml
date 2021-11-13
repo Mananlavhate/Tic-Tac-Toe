@@ -3,4 +3,7 @@
     <string name="heading">Welcome to Tic-Tac-Toe</string>
     <string name="grid">Our main Grid</string>
     <string name="reset">Reset</string>
+    <string name="x_s_turn_tap_to_play">X\'s turn - Tap to play</string>
+    <string name="_4">4</string>
+    <string name="status">status</string>
 </resources>
